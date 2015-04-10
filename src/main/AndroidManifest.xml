@@ -13,7 +13,7 @@
 
         <activity
           android:label="Macroid Starter"
-          android:name=".MainActivity">
+          android:name="com.macroid.layouts.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>

@@ -1,14 +1,14 @@
-package com.example.macroid.starter
+package com.macroid.layouts
 
+import android.app.Activity
 import android.os.Bundle
-import android.widget.{LinearLayout, TextView, Button}
 import android.view.ViewGroup.LayoutParams._
 import android.view.{Gravity, View}
-import android.app.Activity
+import android.widget.{Button, LinearLayout, TextView}
 
 // import macroid stuff
-import macroid._
 import macroid.FullDsl._
+import macroid._
 import macroid.contrib._
 
 import scala.concurrent.ExecutionContext.Implicits.global
