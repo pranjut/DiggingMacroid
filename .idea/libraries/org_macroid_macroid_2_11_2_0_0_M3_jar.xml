@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.macroid-macroid_2.11-2.0.0-M3.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/aars/org.macroid-macroid_2.11-2.0.0-M3/org.macroid-macroid_2.11-2.0.0-M3.jar!/"/>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES> </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.android.support-support-v4-20.0.0.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/aars/com.android.support-support-v4-20.0.0/com.android.support-support-v4-20.0.0.jar!/"/>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES> </SOURCES>
+  </library>
+</component>

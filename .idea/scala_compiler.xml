@@ -1,0 +1,13 @@
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <parameters>
+      <parameter value="-bootclasspath"/>
+      <parameter value="/home/pranjut/Android/Sdk/platforms/android-21/android.jar"/>
+      <parameter value="-javabootclasspath"/>
+      <parameter value="/home/pranjut/Android/Sdk/platforms/android-21/android.jar"/>
+    </parameters>
+    <plugins>
+      <plugin path="/home/pranjut/.ivy2/cache/org.brianmckenna/wartremover_2.11/jars/wartremover_2.11-0.10.jar"/>
+    </plugins>
+  </component>
+</project>

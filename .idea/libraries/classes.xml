@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/target/android-bin/classes"/>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES> </SOURCES>
+  </library>
+</component>
