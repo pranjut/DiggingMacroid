@@ -5,7 +5,7 @@ android.Plugin.androidBuild
 
 platformTarget in Android := "android-21"
 
-name := "macroid-starter"
+name := "DiggingMacroid"
 
 scalaVersion := "2.11.1"
 
@@ -25,7 +25,11 @@ scalacOptions in (Compile, compile) ++= Seq(
 libraryDependencies ++= Seq(
   aar("org.macroid" %% "macroid" % "2.0.0-M3"),
   aar("com.google.android.gms" % "play-services" % "4.0.30"),
-  aar("com.android.support" % "support-v4" % "20.0.0"),
+  aar("com.android.support" % "support-v4" % "21.0.3"),
+  aar("com.android.support" % "appcompat-v7" % "21.0.3"),
+  aar("com.android.support" % "recyclerview-v7" % "21.0.3"),
+  aar("com.android.support" % "cardview-v7" % "21.0.3"),
+  aar("com.fortysevendeg" %% "macroid-extras" % "0.1.1"),
   compilerPlugin("org.brianmckenna" %% "wartremover" % "0.10")
 )
 

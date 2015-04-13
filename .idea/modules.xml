@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea_modules/macroid-starter.iml" filepath="$PROJECT_DIR$/.idea_modules/macroid-starter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea_modules/macroid-starter-build.iml" filepath="$PROJECT_DIR$/.idea_modules/macroid-starter-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/DiggingMacroid.iml" filepath="$PROJECT_DIR$/.idea_modules/DiggingMacroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/DiggingMacroid-build.iml" filepath="$PROJECT_DIR$/.idea_modules/DiggingMacroid-build.iml" />
     </modules>
   </component>
 </project>
